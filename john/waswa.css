@@ -1,0 +1,49 @@
+h1{
+	color:blue;
+	text-align:center;
+	font-weight:700;
+	font-size:50px;
+}
+h2{
+	color:yellow;
+	font-family:arial;
+	font-style:italic;
+	font-weight:bold;
+	text-decoration:overline;
+}
+h3{
+	color:yellow;
+	font-weight:700;
+	text-decoration:line-through;
+	font-style:italic;
+}
+h4{
+	color:green;
+	font-style:italic;
+	text-align:center;
+	text-decoration:overline;
+	font-style:italic;
+	font-size:40px;
+}
+h5{
+	color:pink;
+	font-size:50px;
+	text-decoration:line-through;
+	text-align:center;
+	font-style:italic;
+}
+h6{
+	color:blue;
+	font-family:vernada;
+	font-weight:bold;
+	text-decoration:uppercase;
+}
+body{
+	background-color:gray;
+}
+img{display:block;
+border-radius:50px;
+height:300px;
+width:300px;
+}
+
